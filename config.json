@@ -1,0 +1,5 @@
+{
+    "images_dir": "./imgs",
+    "description_file": "./files/states.json",
+    "output_file": "./files/output.json"
+}
